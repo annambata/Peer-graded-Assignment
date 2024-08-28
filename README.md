@@ -1,6 +1,6 @@
-IBM/Coursera Peer-graded Assignment - Tools for Data Science
-
-This final assignment involved:
-•	Creating a Jupyter Notebook
-•	Inserting code and markdown cells
-•	Sharing your notebook through GitHub
+## Project Title: Tools for Data Science Peer-graded Assignment
+Overview:
+This repository contains the Jupyter Notebook submitted for the final peer-graded assignment of the Tools for Data Science course on Coursera. The assignment required students to:
+Create a Jupyter Notebook.
+Insert code and markdown cells.
+Share the notebook through GitHub.
